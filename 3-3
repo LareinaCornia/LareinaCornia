@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-02-04T19:04:07.322Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="MOwWbmsbASHFj0ANYlA5" version="23.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-04T19:04:44.692Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="3RdL1sUT_F2BPpIyi6IK" version="23.1.1" type="github">
   <diagram name="Page-1" id="gjTDF3nxt1ji-5Qsob7I">
-    <mxGraphModel dx="2347" dy="1636" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4541" dy="3116" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -118,14 +118,8 @@
         <mxCell id="dJqXhLGP1aZSWulLnIcG-111" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeColor=#000000;strokeWidth=6;fillColor=#e1d5e7;opacity=50;" vertex="1" parent="1">
           <mxGeometry x="-866" y="499.5" width="830" height="410" as="geometry" />
         </mxCell>
-        <mxCell id="dJqXhLGP1aZSWulLnIcG-112" value="&lt;font face=&quot;Verdana&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Objective Condition Metric&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=none;" vertex="1" parent="1">
+        <mxCell id="dJqXhLGP1aZSWulLnIcG-112" value="&lt;font face=&quot;Verdana&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Objective Condition Metric&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#A680B8;strokeColor=none;opacity=70;" vertex="1" parent="1">
           <mxGeometry x="-756" y="599.5" width="280" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="dJqXhLGP1aZSWulLnIcG-113" value="&lt;font face=&quot;Verdana&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Subjective Performance Metric&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-756" y="699.5" width="280" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="dJqXhLGP1aZSWulLnIcG-117" value="&lt;font color=&quot;#10739e&quot; face=&quot;Verdana&quot; style=&quot;font-size: 18px;&quot;&gt;&lt;b style=&quot;&quot;&gt;match flow visualizatioin&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-571" y="859.5" width="260" height="30" as="geometry" />
         </mxCell>
         <mxCell id="dJqXhLGP1aZSWulLnIcG-121" value="&lt;font face=&quot;Verdana&quot; style=&quot;font-size: 24px;&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;i style=&quot;&quot;&gt;Problem 2:&amp;nbsp;&lt;/i&gt;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-870" y="459.5" width="174" height="30" as="geometry" />
