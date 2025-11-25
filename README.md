@@ -33,15 +33,6 @@
 
 ---
 
-📊 **GitHub Stats**
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LareinaCornia&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LareinaCornia&layout=compact&theme=tokyonight" />
-</p>
-
----
-
 📫 **How to Reach Me**
 
 <p>
